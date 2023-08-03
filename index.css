@@ -78,7 +78,7 @@ body{
 }
 .container button{
     display: block;
-    /* width: 25px; */
+    width:350px;
     margin: auto;
 }
 
